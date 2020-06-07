@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## OutPut:
-![](first app.png)
+![](screenshot.png)
 
 ## Just follow☝️ me and Star⭐ my repository 
 
